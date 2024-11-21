@@ -1,5 +1,11 @@
 # Business Understanding
 
+## Latar Belakang 
+
+### Latar Belakang Masalah
+
+Perusahaan **Jaya Jaya Maju** menghadapi tantangan dalam mempertahankan karyawan akibat tingkat keluar karyawan (*attrition rate*) yang tinggi. Masalah ini berdampak pada produktivitas, biaya rekrutmen, dan stabilitas organisasi. Beberapa faktor seperti gaji rendah, beban kerja tinggi akibat lembur, dan kurangnya keseimbangan kerja-hidup (work-life balance) menjadi penyebab utama. Selain itu, karyawan muda dengan pengalaman singkat lebih rentan untuk keluar, sementara pendidikan yang lebih tinggi berkorelasi dengan retensi yang lebih baik. Analisis mendalam diperlukan untuk memahami penyebab dan merancang strategi mitigasi yang efektif.
+
 ## Tujuan Utama
 Mengidentifikasi faktor-faktor yang memengaruhi tingkat keluar karyawan (attrition rate) di perusahaan **Jaya Jaya Maju**. Langkah-langkah:
 1. **Permasalahan Bisnis**:
@@ -34,15 +40,26 @@ Mengidentifikasi faktor-faktor yang memengaruhi tingkat keluar karyawan (attriti
 
 ---
 
-# Setup Environment
+## Setup Environment
 
 Untuk mempersiapkan lingkungan kerja Anda, gunakan perintah berikut:
+### Langkah installasi
 
 ```bash
 pip install -r requirements.txt
 pip list
-
 ```
+
+
+### Langkah Menjalankan Skrip
+Gunakan perintah berikut di terminal:
+```bash
+python prediction.py
+```
+### Input data untuk melakukan prediction
+
+- Jika menggunakan file CSV, pastikan file tersedia di direktori kerja dengan format yang sesuai.
+
 
 ## Dashboard Interaktif
 [Akses Dashboard Tableau](https://public.tableau.com/app/profile/wendi.kardian/viz/DashboardAttritionEmployee-WendiKardian/Dashboard1)
