@@ -47,6 +47,8 @@ pip list
 ## Dashboard Interaktif
 [Akses Dashboard Tableau](https://public.tableau.com/app/profile/wendi.kardian/viz/DashboardAttritionEmployee-WendiKardian/Dashboard1)
 
+![Uploading Wendi Kardian - Dashboard.png…]()
+
 ### Temuan Utama
 1. **Pendapatan vs. Attrition**: Karyawan berpendapatan rendah memiliki tingkat attrition tinggi.
 2. **Distribusi Usia**: Karyawan muda (20-30 tahun) lebih sering mengalami attrition.
