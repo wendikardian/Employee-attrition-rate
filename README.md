@@ -64,6 +64,9 @@ python prediction.py
 ## Dashboard Interaktif
 [Akses Dashboard Tableau](https://public.tableau.com/app/profile/wendi.kardian/viz/DashboardAttritionEmployee-WendiKardian/Dashboard1)
 
+![Wendi Kardian - Dashboard](https://github.com/user-attachments/assets/1315d761-4f71-442a-9320-63227fca8705)
+
+
 ### Temuan Utama
 1. **Pendapatan vs. Attrition**: Karyawan berpendapatan rendah memiliki tingkat attrition tinggi.
 2. **Distribusi Usia**: Karyawan muda (20-30 tahun) lebih sering mengalami attrition.
