@@ -42,6 +42,7 @@ Untuk mempersiapkan lingkungan kerja Anda, gunakan perintah berikut:
 pip install -r requirements.txt
 pip list
 
+```
 
 ## Dashboard Interaktif
 [Akses Dashboard Tableau](https://public.tableau.com/app/profile/wendi.kardian/viz/DashboardAttritionEmployee-WendiKardian/Dashboard1)
